@@ -1,0 +1,32 @@
+_repo: Vautrin--A-Drama-in-Five-Acts_6861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2005-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 19th century -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: 'Vautrin: A Drama in Five Acts'
+url: http://www.gutenberg.org/ebooks/6861
