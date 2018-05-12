@@ -1,5 +1,8 @@
 _repo: Vautrin--A-Drama-in-Five-Acts_6861
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -16,6 +19,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6861#Vautrin--A-Drama-in-Five-Acts
 gutenberg_issued: '2005-10-28'
 gutenberg_type: Text
 identifiers:
